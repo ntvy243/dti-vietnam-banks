@@ -1,0 +1,7 @@
+metric,value,note
+precision_coder1,0.747,139/186; Wilson 95% 0.68-0.80
+recall_approx,0.704,"19 matched / 8 missed, 35 readable passages"
+kappa_coder2_coder3,0.908,50 shared matches; bootstrap 95% 0.76-1.00
+kappa_coder1_coder2,0.684,50 shared matches
+kappa_coder1_coder3,0.684,50 shared matches
+fleiss_3coders,0.758,50 shared matches
