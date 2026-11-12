@@ -1,0 +1,121 @@
+dimension,keyword,n_tokens,in_main_index
+DTI_UX,trải nghiệm số,3,True
+DTI_UX,cá nhân hóa,3,True
+DTI_UX,tương tác số,3,True
+DTI_UX,ux số,2,True
+DTI_UX,tiện ích trực tuyến,4,True
+DTI_UX,dịch vụ trực tuyến,4,True
+DTI_UX,kênh số,2,True
+DTI_UX,kỹ thuật số,3,True
+DTI_UX,omnichannel,1,True
+DTI_UX,số hóa,2,True
+DTI_UX,360 độ,2,True
+DTI_UX,quyền riêng tư,3,True
+DTI_UX,mạng xã hội,3,True
+DTI_UX,tiếp thị số,3,True
+DTI_UX,thương mại điện tử,4,True
+DTI_UX,b2c,1,True
+DTI_UX,b2b,1,True
+DTI_UX,b2g,1,True
+DTI_UX,công cụ số,3,True
+DTI_UX,tiện ích số,3,True
+DTI_UX,ngân hàng trực tuyến,4,True
+DTI_UX,mua sắm trực tuyến,4,True
+DTI_ST,chiến lược,2,True
+DTI_ST,chuyển đổi số,3,True
+DTI_ST,tầm nhìn số,3,True
+DTI_ST,mục tiêu số,3,True
+DTI_ST,lộ trình,2,True
+DTI_ST,ban lãnh đạo số,4,True
+DTI_ST,định hướng số hóa,4,True
+DTI_ST,chính sách số hóa,4,True
+DTI_ST,kế hoạch số hóa,4,True
+DTI_ST,đầu tư công nghệ,4,True
+DTI_ST,thương hiệu số,3,True
+DTI_PL,hạ tầng cntt,3,True
+DTI_PL,nền tảng số,3,True
+DTI_PL,điện toán đám mây,4,True
+DTI_PL,iot,1,True
+DTI_PL,ai,1,False
+DTI_PL,trí tuệ nhân tạo,4,True
+DTI_PL,dữ liệu lớn,3,True
+DTI_PL,big data,2,True
+DTI_PL,bảo mật mạng,3,True
+DTI_PL,an ninh thông tin,4,True
+DTI_PL,hệ thống erp/crm số,4,True
+DTI_PL,server,1,True
+DTI_PL,mạng,1,False
+DTI_PL,bảo mật dữ liệu,4,True
+DTI_PL,internet,1,True
+DTI_PL,băng thông rộng,3,True
+DTI_PL,wifi,1,True
+DTI_PL,lan,1,False
+DTI_PL,intranet,1,True
+DTI_PL,hồ sơ điện tử,4,True
+DTI_PL,hóa đơn điện tử,4,True
+DTI_PL,chia sẻ thông tin,4,True
+DTI_PL,dữ liệu số,3,True
+DTI_PL,tường lửa,2,True
+DTI_PL,blockchain,1,True
+DTI_PL,máy in 3d,3,True
+DTI_PL,tự động hóa,3,True
+DTI_PL,giải pháp số hóa,4,True
+DTI_PL,khung quản trị công nghệ,5,True
+DTI_PL,tiêu chuẩn ngành,3,True
+DTI_PL,công nghệ mới,3,True
+DTI_PL,giải pháp nguồn mở,4,True
+DTI_PL,api mở,2,True
+DTI_PL,phát triển ứng dụng,4,True
+DTI_PL,tự động hóa tác vụ,5,True
+DTI_PL,ảo hóa,2,True
+DTI_PL,kết nối không dây,4,True
+DTI_PL,giao thức internet,3,True
+DTI_PL,đám mây,2,True
+DTI_PL,điện toán,2,True
+DTI_OP,bảo mật ict,3,True
+DTI_OP,bảo vệ dữ liệu,4,True
+DTI_OP,quy trình số hóa,4,True
+DTI_OP,erp,1,True
+DTI_OP,scm số,2,True
+DTI_OP,quản lý sản xuất số hóa,6,True
+DTI_OP,vận hành kỹ thuật số,5,True
+DTI_OP,tiết kiệm chi phí,4,True
+DTI_OP,hiệu suất vận hành,4,True
+DTI_OP,cải tiến quy trình,4,True
+DTI_OP,lean số,2,True
+DTI_OP,phần cứng,2,True
+DTI_OP,phần mềm,2,True
+DTI_OP,bộ phận it,3,True
+DTI_OP,làm việc từ xa,4,True
+DTI_OP,đào tạo ict,3,True
+DTI_OP,đào tạo trực tuyến,4,True
+DTI_OP,agile,1,True
+DTI_CU,văn hóa số,3,True
+DTI_CU,nhận thức chuyển đổi số,5,True
+DTI_CU,đổi mới,2,True
+DTI_CU,tinh thần số hóa,4,True
+DTI_CU,đổi mới sáng tạo,4,True
+DTI_CU,chấp nhận công nghệ,4,True
+DTI_CU,năng lực số nội bộ,5,True
+DTI_CU,họp trực tuyến,3,True
+DTI_CU,năng lực đổi mới,4,True
+DTI_CU,hợp lác sáng tạo,4,True
+DTI_CU,cộng tác trực tuyến,4,True
+DTI_CU,đa văn hóa,3,True
+DTI_CU,tư duy số,3,True
+DTI_DA,quản lý dữ liệu,4,True
+DTI_DA,khai thác dữ liệu,4,True
+DTI_DA,kho dữ liệu,3,True
+DTI_DA,phân tích dữ liệu,4,True
+DTI_DA,tài sản thông tin,4,True
+DTI_DA,chất lượng dữ liệu,4,True
+DTI_DA,gdpr,1,True
+DTI_DA,metadata,1,True
+DTI_DA,siêu dữ liệu,3,True
+DTI_DA,cơ sở dữ liệu,4,True
+DTI_DA,tài sản dữ liệu,4,True
+DTI_DA,dữ liệu chủ,3,True
+DTI_DA,mô hình hóa dữ liệu,5,True
+DTI_DA,lưu trữ dữ liệu,4,True
+DTI_DA,thu thập dữ liệu,4,True
+DTI_DA,trung tâm dữ liệu,4,True
