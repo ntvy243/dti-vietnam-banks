@@ -1,0 +1,33 @@
+target,design,contrast,delta_pooled,ci_lo,ci_hi,fold_mean,fold_sd,n_folds
+ROA,shuffled,RF_full - controls,0.15,-0.006,0.38,0.187,0.15,5
+ROA,shuffled,controls - SIZE only,0.124,0.041,0.261,0.134,0.083,5
+ROA,shuffled,RF_full - SIZE only,0.274,0.11,0.566,0.321,0.217,5
+ROA,shuffled,RF_full - linear,0.137,0.059,0.263,0.148,0.087,5
+ROA,shuffled,R2 fold mean±sd: lin,0.343,0.16,,,,5
+ROA,shuffled,R2 fold mean±sd: rf_full,0.491,0.201,,,,5
+ROA,shuffled,R2 fold mean±sd: rf_ctrl,0.304,0.141,,,,5
+ROA,shuffled,R2 fold mean±sd: rf_size,0.17,0.173,,,,5
+ROA,grouped,RF_full - controls,-0.1,-0.277,0.17,-0.056,0.379,5
+ROA,grouped,controls - SIZE only,0.083,-0.039,0.228,0.055,0.231,5
+ROA,grouped,RF_full - SIZE only,-0.018,-0.173,0.253,-0.001,0.163,5
+ROA,grouped,RF_full - linear,0.12,-0.013,0.382,0.112,0.155,5
+ROA,forward,RF_full - controls,-0.089,-0.249,0.567,0.131,0.326,3
+ROA,forward,controls - SIZE only,0.021,-0.492,0.172,-0.151,0.307,3
+ROA,forward,RF_full - SIZE only,-0.068,-0.179,0.299,-0.021,0.09,3
+ROA,forward,RF_full - linear,-0.021,-0.095,0.142,-0.013,0.11,3
+ROE,shuffled,RF_full - controls,0.035,-0.034,0.19,0.076,0.117,5
+ROE,shuffled,controls - SIZE only,0.132,0.024,0.398,0.203,0.218,5
+ROE,shuffled,RF_full - SIZE only,0.167,0.068,0.487,0.28,0.286,5
+ROE,shuffled,RF_full - linear,0.092,0.014,0.299,0.139,0.091,5
+ROE,shuffled,R2 fold mean±sd: lin,0.191,0.105,,,,5
+ROE,shuffled,R2 fold mean±sd: rf_full,0.33,0.18,,,,5
+ROE,shuffled,R2 fold mean±sd: rf_ctrl,0.254,0.129,,,,5
+ROE,shuffled,R2 fold mean±sd: rf_size,0.051,0.262,,,,5
+ROE,grouped,RF_full - controls,-0.132,-0.384,0.185,-0.121,0.407,5
+ROE,grouped,controls - SIZE only,0.044,-0.162,0.248,0.025,0.301,5
+ROE,grouped,RF_full - SIZE only,-0.087,-0.282,0.167,-0.096,0.211,5
+ROE,grouped,RF_full - linear,0.064,-0.077,0.413,0.17,0.306,5
+ROE,forward,RF_full - controls,-0.017,-0.121,1.141,0.32,0.615,3
+ROE,forward,controls - SIZE only,-0.031,-1.072,0.06,-0.366,0.506,3
+ROE,forward,RF_full - SIZE only,-0.048,-0.209,0.177,-0.046,0.131,3
+ROE,forward,RF_full - linear,-0.035,-0.08,0.427,0.001,0.057,3

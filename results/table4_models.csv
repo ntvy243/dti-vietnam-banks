@@ -1,0 +1,7 @@
+target,model,R2,R2_sd,RMSE,MAE
+ROA,Linear,0.343,0.16,0.683,0.482
+ROA,Random Forest,0.491,0.201,0.597,0.405
+ROA,XGBoost,0.478,0.18,0.606,0.422
+ROE,Linear,0.191,0.105,8.681,5.426
+ROE,Random Forest,0.33,0.18,7.959,4.876
+ROE,XGBoost,0.366,0.175,7.701,4.776
